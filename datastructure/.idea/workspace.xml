@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4943a243-6e43-4f23-a4de-57438dda8488" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="datastructure" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XsQhhfB5X8PD857puiC99FY1g5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../logging" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.logger (1)">
+    <configuration name="histogram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="datastructure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/histogram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="int" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <log_file alias="log entry" path="$PROJECT_DIR$/../../histogram.log" show_all="true" />
+      <module name="datastructure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/int.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="logger (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="logging" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../logging" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../logging/logger.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="logger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="strings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../strings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../strings/logger.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="logging" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="strings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../strings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../strings/logging.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.histogram" />
+      <item itemvalue="Python.int" />
+      <item itemvalue="Python.logging" />
+      <item itemvalue="Python.logger" />
+      <item itemvalue="Python.logger (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.logger (1)" />
+        <item itemvalue="Python.logger" />
+        <item itemvalue="Python.logging" />
+        <item itemvalue="Python.int" />
+        <item itemvalue="Python.histogram" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4943a243-6e43-4f23-a4de-57438dda8488" name="Default Changelist" comment="" />
+      <created>1581832442212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581832442212</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="122" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582405574819">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="122" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1582405574819" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1582411787127">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582411787127" />
+    <state width="1344" height="172" key="GridCell.Tab.0.bottom" timestamp="1582411980527">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582411980527" />
+    <state width="1344" height="172" key="GridCell.Tab.0.center" timestamp="1582411980527">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582411980527" />
+    <state width="1344" height="172" key="GridCell.Tab.0.left" timestamp="1582411980527">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582411980527" />
+    <state width="1344" height="172" key="GridCell.Tab.0.right" timestamp="1582411980527">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582411980527" />
+    <state width="1344" height="217" key="GridCell.Tab.1.bottom" timestamp="1582411842878">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="217" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582411842878" />
+    <state width="1344" height="217" key="GridCell.Tab.1.center" timestamp="1582411842878">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="217" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582411842878" />
+    <state width="1344" height="217" key="GridCell.Tab.1.left" timestamp="1582411842877">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="217" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582411842877" />
+    <state width="1344" height="217" key="GridCell.Tab.1.right" timestamp="1582411842878">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="217" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582411842878" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1582268234913">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582268234913" />
+  </component>
+</project>
