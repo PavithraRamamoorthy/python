@@ -1,0 +1,6 @@
+id,product_name,category_id,price,sale_price,date_into_market 
+1,apple,1,30000,20000,2015
+2,realme,2,15000,10000,2016
+3,redmi,3,20000,15000,2012
+4,nokia,4,5000,3000,2010
+5,samsung,5,10000,80000,2011
